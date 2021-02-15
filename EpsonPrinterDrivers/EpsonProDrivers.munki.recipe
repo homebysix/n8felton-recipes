@@ -10,8 +10,6 @@
 	<dict>
 		<key>NAME</key>
 		<string>EpsonProDrivers</string>
-		<key>SEARCH_URL</key>
-		<string>https://www.epson.com/Support/override/this</string>
 		<key>MUNKI_REPO_SUBDIR</key>
 		<string>printers/drivers</string>
 		<key>MUNKI_CATEGORY</key>
